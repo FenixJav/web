@@ -1,0 +1,230 @@
+		*
+		{
+			margin: 0px;
+			padding: 0´px;
+
+
+		}
+
+		img
+		{
+			width: 100%;
+		}
+
+		ul
+		{
+			list-style-type: none;
+			font-family: Times New Roman;
+			font-style: italic;
+			font-size: calc(.7em + 1vw);
+		}
+
+		li
+		{
+			display: inline;
+			margin-right: 1em;
+		}
+
+		a
+		{
+			text-decoration: none;
+		}
+
+		a:visited
+		{
+			color: black;
+		}
+
+		body
+		{
+			background-image: url(fondofisicos.jpg);
+			background-size: 100%;
+		}
+
+		h4
+		{
+			font-size: calc(.5em + 1vw);
+			font-family: Lucida Sans;
+			display: flex;
+		}
+
+		h5
+		{
+			font-size: calc(.7em + 1vw);
+			font-family: Times new roman;
+			display: flex;
+			font-style: italic ;
+
+		}
+
+		h6
+		{
+			font-size: calc(2.5em + 1vw);
+			font-family: Lucida Sans;
+		}
+		.enca
+		{	
+			border: solid black .2em;
+			background-color: mediumpurple;
+			width: 90vw;
+			height: 10vh;
+			left: 4vw;
+			position: fixed;
+			text-align: center;
+			z-index: 10;
+			padding-top: .6em;
+		}
+
+		.menu
+		{
+			border: solid black .2em;
+			background-color: lightgrey;
+			top: 11vh;
+			width: 90vw;
+			height: 5vh;
+			left: 4vw;
+			position: fixed;
+			text-align: center;
+			z-index: 10;
+			line-height: 5vh;
+		}
+
+		.conten
+		{
+			/*border: solid white.2em;
+			background-color: black;*/
+			width: 80vw;
+			margin: auto;
+			position: relative;
+			text-align: left;
+			top: 25vh;
+			display: flex;
+			margin: auto;
+			margin-bottom: 6%;
+		}
+		
+		.textou1
+		{
+			border: solid #212121.4em;
+			background-color: mediumaquamarine;
+			width: 50vw;
+			position: relative;
+			margin: auto;
+			padding: .8em;
+		}
+
+		.imagen1
+		{
+			border: solid #212121 .4em;
+			background-color: mediumaquamarine;
+			width: 20vw;
+			position: relative;
+			margin: auto;
+			padding: .6em;
+			left: 1vh;
+		}
+
+		.textou2
+		{
+			border: solid #212121 .4em;
+			background-color: mediumaquamarine;
+			width: 50vw;
+			position: relative;
+			margin: auto;
+			padding: .8em;
+			left: 1vh;
+		}
+
+		.imagen2
+		{
+			border: solid #212121 .4em;
+			background-color: mediumaquamarine;
+			width: 20vw;
+			position: relative;
+			margin: auto;
+			padding: .6em;
+		}
+
+		.pie
+		{
+			border: solid black .2em;
+			background-color: mediumpurple;
+			width: full;
+			padding: 1em;
+			top: 29vh;
+			margin: auto;
+			position: relative;
+			text-align: center;
+			display: flex;
+		}
+
+		.piep
+		{
+			/*border: solid black .2em;
+			background-color: lightseagreen;*/
+			width: 45vw;
+			margin: auto;
+			position: relative;
+			text-align: left;
+		
+		}
+
+		.novetit
+		{	
+			border: solid black .2em;
+			background-color: ivory;
+			width: 22vw;
+			margin: auto;
+			position: relative;
+			text-align: center;
+			top: 27vh;
+			margin-bottom: .1em;
+			padding: .5em;
+			padding-left: 1.5em;
+		}
+
+		.textou3
+		{
+			border: solid #212121.4em;
+			background-color: cornflowerblue;
+			width: 50vw;
+			position: relative;
+			margin: auto;
+			padding: .8em;
+			top: 5vh;
+		}
+
+		.imagen3
+		{
+			border: solid #212121 .4em;
+			background-color: cornflowerblue;
+			width: 20vw;
+			position: relative;
+			margin: auto;
+			padding: .6em;
+			left: 1vh;
+			top: 5vh;
+		}
+
+		.textou4
+		{
+			border: solid #212121 .4em;
+			background-color: cornflowerblue;
+			width: 50vw;
+			position: relative;
+			margin: auto;
+			padding: .8em;
+			left: 1vh;
+			top: 5vh;
+		}
+
+		.imagen4
+		{
+			border: solid #212121 .4em;
+			background-color: cornflowerblue;
+			width: 20vw;
+			position: relative;
+			margin: auto;
+			padding: .6em;
+			top: 5vh;
+		}
